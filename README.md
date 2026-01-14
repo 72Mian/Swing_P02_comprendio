@@ -24,7 +24,7 @@ Para ejecutar la aplicación, sigue los siguientes pasos:
 ### Línea de comandos
 Sitúate en la carpeta donde está el ejecutable y escribe:
 ```bash
-java -jar NombreDeTuArchivo.jar
+java -jar GestionApartamentos.jar
 ```
 
 ## Construido con
