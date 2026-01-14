@@ -25,5 +25,20 @@ Para ejecutar la aplicación, sigue los siguientes pasos:
 Sitúate en la carpeta donde está el ejecutable y escribe:
 ```bash
 java -jar NombreDeTuArchivo.jar
+```
 
 ## Construido con
+* **Java** - El lenguaje utilizado
+* **Swing** - Librería gráfica
+
+## Versionado
+* **Versión** 1.0
+
+## Autor
+* **Miguel Ángel Villaespesa Ybarra**
+
+## Licencia
+Este proyecto es de uso académico
+
+## Recursos adiccionales:
+* https://github.com/72Mian/Swing_P02_comprendio/
